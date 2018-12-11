@@ -1,3 +1,26 @@
 body {
-  font-family: "Roboto", "Helvetica", "Arial", sans-serif!important;
+  background-color: #80808017;
+  margin: 0;
+  padding: 0;
+  font-family: "HelveticaNeue-Thin", "Roboto", "Helvetica", "Arial", sans-serif!important;
+}
+
+@keyframes car-move {
+  0%   {transform: translate(0vw, 0);}
+  10%  {transform: translate(10vw, 0);}
+  20%  {transform: translate(20vw, 0);}
+  40%  {transform: translate(40vw, 0);}
+  50%  {transform: translate(50vw, 0);}
+  60%  {transform: translate(60vw, 0);}
+  70%  {transform: translate(70vw, 0);}
+  100% {transform: translate(80vw, 0);}
+}
+
+.fade-enter {
+  opacity: 0;
+  z-index: 1;
+}
+.fade-enter.fade-enter-active {
+  opacity: 0.7;
+  transition: opacity 200ms ease-in;
 }
