@@ -1,0 +1,23 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "masterId": 1,
+            "userDataId": "PO",
+            "userDataValue": "PO Submission",
+            "codeDataId": "C003"
+        },
+        {
+            "masterId": 2,
+            "userDataId": "XO",
+            "userDataValue": "XO Submission",
+            "codeDataId": "C003"
+        },
+        {
+            "masterId": 212,
+            "userDataId": "OTHER",
+            "userDataValue": "OTHER State",
+            "codeDataId": "C003"
+        }
+    ]
+}

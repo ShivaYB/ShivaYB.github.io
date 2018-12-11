@@ -1,0 +1,13 @@
+{
+    "status": 200,
+    "data": [{
+        "activeDeviceCount": 5,
+        "inActiveDeviceCount": 3,
+        "anchorCount": 0,
+        "spokeCount": 2,
+        "bodyBuilderCount": 1,
+        "inTransitCount": 3
+    }]
+
+
+}

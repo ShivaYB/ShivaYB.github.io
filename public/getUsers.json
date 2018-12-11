@@ -1,0 +1,57 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "userId": 1,
+            "bankId": 111111,
+            "userName": "User 1",
+            "emailId": "user@sc.com",
+            "userRoleId": "R001",
+            "userAccessLevelId": "0,1",
+            "active": true,
+            "userRoleName": "Trade",
+            "userAccessLevel": "Admin,Input",
+            "userCountryId": "SG,CHN",
+            "userCountryName": "Singapore,China"
+        },
+        {
+            "userId": 2,
+            "bankId": 222222,
+            "userName": "User 2",
+            "emailId": "user@sc.com",
+            "userRoleId": "R002",
+            "userAccessLevelId": "1",
+            "active": false,
+            "userRoleName": "Ops",
+            "userAccessLevel": "Input",
+            "userCountryId": "SG,CHN",
+            "userCountryName": "Singapore,China"
+        },
+        {
+            "userId": 3,
+            "bankId": 333333,
+            "userName": "User 3",
+            "emailId": "user@sc.com",
+            "userRoleId": "R003",
+            "userAccessLevelId": "2",
+            "active": true,
+            "userRoleName": "EMT",
+            "userAccessLevel": "Inquiry",
+            "userCountryId": "SG,CHN",
+            "userCountryName": "Singapore,China"
+        },
+        {
+            "userId": 4,
+            "bankId": 444444,
+            "userName": "User 4",
+            "emailId": "user@sc.com",
+            "userRoleId": "R001",
+            "userAccessLevelId": "0",
+            "active": true,
+            "userRoleName": "Trade",
+            "userAccessLevel": "Admin",
+            "userCountryId": "SG,CHN",
+            "userCountryName": "Singapore,China"
+        }
+    ]
+}

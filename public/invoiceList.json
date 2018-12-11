@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "data": [{
+        "invoiceTypeId": "IN1",
+        "invoiceType": "PO Submission"
+    }]
+
+
+}

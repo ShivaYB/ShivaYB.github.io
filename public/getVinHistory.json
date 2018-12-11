@@ -1,0 +1,17 @@
+{
+  "status": 200,
+  "data": [
+    {
+        "vehicleLocation": "In Geolocation of Supplier",
+        "updatedTime": 1542869194287
+    },
+    {
+        "vehicleLocation": "In Transit of Supplier",
+        "updatedTime": 1542869194287
+    },
+    {
+        "vehicleLocation": "In Geolocation of Body builder",
+        "updatedTime": 1542869194287
+    }
+  ]
+}

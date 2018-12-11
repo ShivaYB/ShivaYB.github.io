@@ -1,0 +1,16 @@
+{
+    "data": {
+        "userId": 1,
+        "bankId": 1527278,
+        "userName": "Abu",
+        "userRoleId": 1,
+        "userAccessLevelId": "2",
+        "password": "Abc#12345",
+        "userRoleName": "Trade",
+        "userAccessLevel": "Admin,Input,Enquiry",
+        "userCountryId": "SG,CHN",
+        "userCountryName": "Singapore,China",
+        "active": true
+    },
+    "status": 200
+}

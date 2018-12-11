@@ -1,0 +1,253 @@
+{
+    "status": "200",
+    "data": [
+        {
+            "programId": 1,
+            "countryCode": "SG",
+            "programName": "FirstProgram",
+            "anchor": {
+                "detailsId": 1,
+                "otpId": "achor1",
+                "name": "anchorName1",
+                "addressDTOList": [
+                    {
+                        "addressId": 1,
+                        "addressLine1": "anchorAddress1",
+                        "addressLine2": "anchorAddress2",
+                        "addressLine3": "anchorAddress",
+                        "countryCode": "SG",
+                        "postalCode": "509739"
+                    }
+                ],
+                "latitude": 1.2802383,
+                "longitude": 103.85440349999999
+            },
+            "bodyBuilderList": [
+                {
+                    "detailsId": 2,
+                    "otpId": "body1",
+                    "name": "bodyName1",
+                    "addressDTOList": [
+                        {
+                        "addressId": 2,
+                            "addressLine1": "changedbodyAddress1",
+                            "addressLine2": "changedbodyAddress2",
+                            "addressLine3": "changedbodyAddress3",
+                            "countryCode": "CHN",
+                            "postalCode": "509739"
+                        }
+                    ],
+                    "latitude": 1.2819046,
+                    "longitude": 103.82391819999998
+                }
+            ],
+            "spokeList": [
+                {
+                    "detailsId": 3,
+                    "otpId": "spoke1",
+                    "name": "spokeName1",
+                    "addressDTOList": [
+                        {
+                            "addressId": 3,
+                            "addressLine1": "spokeAddress1",
+                            "addressLine2": "spokeAddress2",
+                            "addressLine3": "spokeAddress3",
+                            "countryCode": "IDN",
+                            "postalCode": "509739"
+                        }
+                    ],
+                    "latitude": 1.6905489,
+                    "longitude": 109.84583050000003
+                }
+            ],
+            "remarks": null,
+            "status": true
+        },
+        {
+            "programId": 2,
+            "countryCode": "SG",
+            "programName": "SecondProgram",
+            "anchor": {
+                "detailsId": 1,
+                "otpId": "achor2",
+                "name": "anchorName2",
+                "addressDTOList": [
+                    {
+                        "addressId": 1,
+                        "addressLine1": "anchorAddress1",
+                        "addressLine2": "anchorAddress2",
+                        "addressLine3": "anchorAddress",
+                        "countryCode": "SG",
+                        "postalCode": "509739"
+                    }
+                ],
+                "latitude": 1.3644202,
+                "longitude": 103.99153079999996
+            },
+            "bodyBuilderList": [
+                {
+                    "detailsId": 2,
+                    "otpId": "body2",
+                    "name": "bodyName2",
+                    "addressDTOList": [
+                        {
+                        "addressId": 2,
+                            "addressLine1": "changedbodyAddress1",
+                            "addressLine2": "changedbodyAddress2",
+                            "addressLine3": "changedbodyAddress3",
+                            "countryCode": "SG",
+                            "postalCode": "509739"
+                        }
+                    ],
+                    "latitude": 5.975877399999999,
+                    "longitude": 116.00074930000005
+                }
+            ],
+            "spokeList": [
+                {
+                    "detailsId": 3,
+                    "otpId": "spoke2",
+                    "name": "spokeName2",
+                    "addressDTOList": [
+                        {
+                            "addressId": 3,
+                            "addressLine1": "spokeAddress1",
+                            "addressLine2": "spokeAddress2",
+                            "addressLine3": "spokeAddress3",
+                            "countryCode": "SG",
+                            "postalCode": "509739"
+                        }
+                    ],
+                    "latitude": 1.3998488,
+                    "longitude": 110.324075
+                }
+            ],
+            "remarks": null,
+            "status": true
+        },
+        {
+            "programId": 3,
+            "countryCode": "SG",
+            "programName": "ThirdProgram",
+            "anchor": {
+                "detailsId": 1,
+                "otpId": "achor3",
+                "name": "anchorName3",
+                "addressDTOList": [
+                    {
+                        "addressId": 1,
+                        "addressLine1": "anchorAddress1",
+                        "addressLine2": "anchorAddress2",
+                        "addressLine3": "anchorAddress",
+                        "countryCode": "SG",
+                        "postalCode": "509739"
+                    }
+                ],
+                "latitude": 1.3316169,
+                "longitude": 103.74134819999995
+            },
+            "bodyBuilderList": [
+                {
+                    "detailsId": 2,
+                    "otpId": "body3",
+                    "name": "bodyName3",
+                    "addressDTOList": [
+                        {
+                        "addressId": 2,
+                            "addressLine1": "changedbodyAddress1",
+                            "addressLine2": "changedbodyAddress2",
+                            "addressLine3": "changedbodyAddress3",
+                            "countryCode": "SG",
+                            "postalCode": "509739"
+                        }
+                    ],
+                    "latitude": 1.2494041,
+                    "longitude": 103.83032090000006
+                }
+            ],
+            "spokeList": [
+                {
+                    "detailsId": 3,
+                    "otpId": "spoke3",
+                    "name": "spokeName3",
+                    "addressDTOList": [
+                        {
+                            "addressId": 3,
+                            "addressLine1": "spokeAddress1",
+                            "addressLine2": "spokeAddress2",
+                            "addressLine3": "spokeAddress3",
+                            "countryCode": "SG",
+                            "postalCode": "509739"
+                        }
+                    ],
+                    "latitude": 1.4125659,
+                    "longitude": 103.95773340000005
+                }
+            ],
+            "remarks": null,
+            "status": true
+        },
+        {
+            "programId": 4,
+            "countryCode": "SG",
+            "programName": "FourthProgram",
+            "anchor": {
+                "detailsId": 1,
+                "otpId": "achor4",
+                "name": "anchorName4",
+                "addressDTOList": [
+                    {
+                        "addressId": 1,
+                        "addressLine1": "anchorAddress1",
+                        "addressLine2": "anchorAddress2",
+                        "addressLine3": "anchorAddress",
+                        "countryCode": "SG",
+                        "postalCode": "509739"
+                    }
+                ],
+                "latitude": 3.1467855,
+                "longitude": 101.71130429999994
+            },
+            "bodyBuilderList": [
+                {
+                    "detailsId": 2,
+                    "otpId": "body4",
+                    "name": "bodyName4",
+                    "addressDTOList": [
+                        {
+                        "addressId": 2,
+                            "addressLine1": "changedbodyAddress1",
+                            "addressLine2": "changedbodyAddress2",
+                            "addressLine3": "changedbodyAddress3",
+                            "countryCode": "SG",
+                            "postalCode": "509739"
+                        }
+                    ],
+                    "latitude": 1.234572,
+                    "longitude": 103.76222680000001
+                }
+            ],
+            "spokeList": [
+                {
+                    "detailsId": 3,
+                    "otpId": "spoke4",
+                    "name": "spokeName4",
+                    "addressDTOList": [
+                        {
+                            "addressId": 3,
+                            "addressLine1": "spokeAddress1",
+                            "addressLine2": "spokeAddress2",
+                            "addressLine3": "spokeAddress3",
+                            "countryCode": "SG",
+                            "postalCode": "509739"
+                        }
+                    ],
+                    "latitude": 1.4491107,
+                    "longitude": 103.81849540000007
+                }
+            ],
+            "remarks": null,
+            "status": true
+        }
+    ]
+}

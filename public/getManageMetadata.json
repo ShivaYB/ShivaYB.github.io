@@ -1,0 +1,20 @@
+{
+    "status": "200",
+    "data": [
+        {
+            "codeId": 1,
+            "codeDataId": "C001",
+            "codeDataName": "Role"
+        },
+        {
+            "codeId": 2,
+            "codeDataId": "C002",
+            "codeDataName": "Country"
+        },
+        {
+            "codeId": 3,
+            "codeDataId": "C003",
+            "codeDataName": "Invoice"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "masterId": 1,
+            "userDataId": "SG",
+            "userDataValue": "Singpaore",
+            "codeDataId": "C002"
+        },
+        {
+            "masterId": 2,
+            "userDataId": "CHN",
+            "userDataValue": "China",
+            "codeDataId": "C002"
+        },
+        {
+            "masterId": 3,
+            "userDataId": "IDN",
+            "userDataValue": "Indonesia",
+            "codeDataId": "C002"
+        }
+    ]
+}

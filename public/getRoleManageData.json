@@ -1,0 +1,23 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "masterId": 1,
+            "userDataId": "R001",
+            "userDataValue": "Trade",
+            "codeDataId": "C001"
+        },
+        {
+            "masterId": 2,
+            "userDataId": "R002",
+            "userDataValue": "Ops",
+            "codeDataId": "C002"
+        },
+        {
+            "masterId": 3,
+            "userDataId": "R003",
+            "userDataValue": "EMT",
+            "codeDataId": "C003"
+        }
+    ]
+}

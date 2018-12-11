@@ -1,0 +1,194 @@
+{
+    "status": "200",
+    "data": [
+        {
+            "programId": 1,
+            "countryCode": "SG",
+            "programName": "First Program",
+            "createdDate": 1542869194287,
+            "modifiedDate": 1542869194287,
+            "status": true
+        },
+        {
+            "programId": 2,
+            "countryCode": "SG",
+            "programName": "Second Program",
+            "createdDate": 1542869194287,
+            "modifiedDate": 1542869194287,
+            "status": true,
+            "anchor": {
+                "createdDate": 1542869194287,
+                "modifiedDate": 1542869194287,
+                "detailsId": 1,
+                "otpId": "achor4",
+                "name": "AnchorName4"
+            }
+        },
+        {
+            "programId": 3,
+            "countryCode": "SG",
+            "programName": "Third Program",
+            "createdDate": 1542869194287,
+            "modifiedDate": 1542869194287,
+            "anchor": {
+                "createdDate": 1542869194287,
+                "modifiedDate": 1542869194287,
+                "detailsId": 1,
+                "otpId": "achor1",
+                "name": "AnchorName1",
+                "addressDTOList": [
+                    {
+                        "addressId": 1,
+                        "addressLine1": "anchorAddress1",
+                        "addressLine2": "anchorAddress2",
+                        "addressLine3": "anchorAddress",
+                        "countryCode": "SG",
+                        "postalCode": "509739",
+                        "latitude": 1.2802383,
+                        "longitude": 103.85440349999999,
+                        "radius": "100"
+                    }
+                ]
+            },
+            "bodyBuilderList": [
+                {
+                    "createdDate": 1542869194287,
+                    "modifiedDate": 1542869194287,
+                    "detailsId": 2,
+                    "otpId": "body1",
+                    "name": "bodyName1",
+                    "addressDTOList": [
+                        {
+                            "addressId": 2,
+                            "addressLine1": "Address1",
+                            "addressLine2": "Address2",
+                            "addressLine3": "Address3",
+                            "countryCode": "CHN",
+                            "postalCode": "509739",
+                            "latitude": 1.4491107,
+                            "longitude": 103.81849540000007,
+                            "radius": "100"
+                        }
+                    ]
+                }
+            ],
+            "spokeList": [
+                {
+                    "createdDate": 1542869194287,
+                    "modifiedDate": 1542869194287,
+                    "detailsId": 3,
+                    "otpId": "spoke1",
+                    "name": "spokeName1",
+                    "addressDTOList": [
+                        {
+                            "addressId": 3,
+                            "addressLine1": "spokeAddress1",
+                            "addressLine2": "spokeAddress2",
+                            "addressLine3": "spokeAddress3",
+                            "countryCode": "IDN",
+                            "postalCode": "509739",
+                            "latitude": 1.6905489,
+                            "longitude": 109.84583050000003,
+                            "radius": "100"
+                        }
+                    ]
+                }
+            ],
+            "remarks": null,
+            "status": true
+        },
+        {
+            "programId": 4,
+            "countryCode": "SG",
+            "programName": "Fourth Program",
+            "createdDate": 1542869194287,
+            "modifiedDate": 1542869194287,
+            "anchor": {
+                "createdDate": 1542869194287,
+                "modifiedDate": 1542869194287,
+                "detailsId": 1,
+                "otpId": "achor3",
+                "name": "AnchorName3",
+                "addressDTOList": [
+                    {
+                        "addressId": 1,
+                        "addressLine1": "anchorAddress1",
+                        "addressLine2": "anchorAddress2",
+                        "addressLine3": "anchorAddress",
+                        "countryCode": "SG",
+                        "postalCode": "509739",
+                        "latitude": 1.2802383,
+                        "longitude": 103.85440349999999,
+                        "radius": "100"
+                    }
+                ]
+            },
+            "bodyBuilderList": [
+                {
+                    "createdDate": 1542869194287,
+                    "modifiedDate": 1542869194287,
+                    "detailsId": 2,
+                    "otpId": "body3",
+                    "name": "bodyName3",
+                    "addressDTOList": [
+                        {
+                            "addressId": 2,
+                            "addressLine1": "Address1",
+                            "addressLine2": "Address2",
+                            "addressLine3": "Address3",
+                            "countryCode": "CHN",
+                            "postalCode": "509739",
+                            "latitude": 1.4491107,
+                            "longitude": 103.81849540000007,
+                            "radius": "100"
+                        }
+                    ]
+                },
+                {
+                    "createdDate": 1542869194287,
+                    "modifiedDate": 1542869194287,
+                    "detailsId": 21,
+                    "otpId": "body31",
+                    "name": "bodyName31",
+                    "addressDTOList": [
+                        {
+                            "addressId": 2,
+                            "addressLine1": "Address31",
+                            "addressLine2": "Address32",
+                            "addressLine3": "Address33",
+                            "countryCode": "CHN",
+                            "postalCode": "509739",
+                            "latitude": 1.4491107,
+                            "longitude": 103.81849540000007,
+                            "radius": "100"
+                        }
+                    ]
+                }
+            ],
+            "spokeList": [
+                {
+                    "createdDate": 1542869194287,
+                    "modifiedDate": 1542869194287,
+                    "detailsId": 3,
+                    "otpId": "spoke3",
+                    "name": "spokeName3",
+                    "addressDTOList": [
+                        {
+                            "addressId": 3,
+                            "addressLine1": "spokeAddress1",
+                            "addressLine2": "spokeAddress2",
+                            "addressLine3": "spokeAddress3",
+                            "countryCode": "IDN",
+                            "postalCode": "509739",
+                            "latitude": 1.6905489,
+                            "longitude": 109.84583050000003,
+                            "radius": "100"
+                        }
+                    ]
+                }
+            ],
+            "remarks": null,
+            "status": true
+        }
+    ]
+}

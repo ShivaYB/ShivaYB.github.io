@@ -1,0 +1,423 @@
+{
+	"status": "200",
+	"data": {
+			"deviceStatusDTO": {
+					"activeDeviceCount": 5,
+					"inActiveDeviceCount": 3,
+					"anchorCount": 0,
+					"spokeCount": 2,
+					"bodyBuilderCount": 1,
+					"inTransitCount": 3
+			},
+			"dashboardDataList": [
+					{
+							"programId": 1,
+							"dashboardId": 1,
+							"anchorDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Anchor One",
+									"addressDTOList": [
+											{
+													"latitude": "1.3343783",
+													"longitude": "103.95071810000002",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"spokeDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Spoke One",
+									"addressDTOList": [
+											{
+													"latitude": "",
+													"longitude": "",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"vinMapped": true,
+							"vin": "VINNN",
+							"latitude": "1.3343783",
+							"longitude": "103.95071810000002",
+							"documentNo": "Doc-VINNN",
+							"deviceStatus": "Active",
+							"vehicleLocation": "SIG 89778634",
+							"invoiceStatusCode": "PO",
+							"invoiceStatus": "PO Submission",
+							"dealRefNo": "TF123A9999-11111",
+							"remarks": "Inactive"
+					},
+					{
+							"programId": 1,
+							"dashboardId": 2,
+							"anchorDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Anchor One",
+									"addressDTOList": [
+											{
+													"latitude": "1.3343783",
+													"longitude": "103.95071810000002",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"spokeDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Spoke One",
+									"addressDTOList": [
+											{
+													"latitude": "",
+													"longitude": "",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"vinMapped": true,
+							"vin": "VINNN--",
+							"latitude": "1.3343783",
+							"longitude": "103.95071810000002",
+							"documentNo": "Doc-VINNN--",
+							"deviceStatus": "Inactive",
+							"vehicleLocation": "SIG 89778634---",
+							"invoiceStatusCode": "XO",
+							"invoiceStatus": "XO Submission",
+							"dealRefNo": "TF123A9999-00000",
+							"remarks": "This tutorial attempts to introduce redux-saga in a (hopefully) accessible way For our getting started tutorial,  we are going to use the trivial Counter demo from the Redux repo. The application is quite simple but is a good fit to illustrate the basic concepts of redux-saga without being lost in excessive details."
+					},
+					{
+							"programId": 1,
+							"dashboardId": 3,
+							"anchorDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Anchor One",
+									"addressDTOList": [
+											{
+													"latitude": "1.3343783",
+													"longitude": "103.95071810000002",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"spokeDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Spoke One",
+									"addressDTOList": [
+											{
+													"latitude": "",
+													"longitude": "",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"vinMapped": true,
+							"vin": "VINNN--",
+							"latitude": "1.3343783",
+							"longitude": "103.95071810000002",
+							"documentNo": "Doc-VINNN--",
+							"deviceStatus": "Active",
+							"vehicleLocation": "In-transit from Bodybuilder",
+							"invoiceStatusCode": "XO",
+							"invoiceStatus": "XO Submission",
+							"dealRefNo": "TF123A9999-00000",
+							"remarks": "Of redux-saga without being lost in excessive details."
+					},
+					{
+							"programId": 1,
+							"dashboardId": 4,
+							"anchorDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Anchor One",
+									"addressDTOList": [
+											{
+													"latitude": "1.3343783",
+													"longitude": "103.95071810000002",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"spokeDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Spoke One",
+									"addressDTOList": [
+											{
+													"latitude": "",
+													"longitude": "",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"vinMapped": true,
+							"vin": "VINNN--",
+							"latitude": "1.3343783",
+							"longitude": "103.95071810000002",
+							"documentNo": "Doc-VINNN--",
+							"deviceStatus": "Active",
+							"vehicleLocation": "In Geo Location of Dealer",
+							"invoiceStatusCode": "XO",
+							"invoiceStatus": "XO Submission",
+							"dealRefNo": "TF123A9999-00000",
+							"remarks": "Of redux-saga without being lost in excessive details."
+					},
+					{
+							"programId": 1,
+							"dashboardId": 5,
+							"anchorDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Anchor One",
+									"addressDTOList": [
+											{
+													"latitude": "1.3343783",
+													"longitude": "103.95071810000002",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"spokeDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Spoke One",
+									"addressDTOList": [
+											{
+													"latitude": "",
+													"longitude": "",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"vinMapped": true,
+							"vin": "VINNN--",
+							"latitude": "1.3343783",
+							"longitude": "103.95071810000002",
+							"documentNo": "Doc-VINNN--",
+							"deviceStatus": "Active",
+							"vehicleLocation": "In-transit from Supplier",
+							"invoiceStatusCode": "XO",
+							"invoiceStatus": "XO Submission",
+							"dealRefNo": "TF123A9999-00000",
+							"remarks": "Of redux-saga without being lost in excessive details."
+					},
+					{
+							"programId": 1,
+							"dashboardId": 6,
+							"anchorDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Anchor One",
+									"addressDTOList": [
+											{
+													"latitude": "1.3343783",
+													"longitude": "103.95071810000002",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"spokeDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Spoke One",
+									"addressDTOList": [
+											{
+													"latitude": "",
+													"longitude": "",
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"vinMapped": true,
+							"vin": "VINNN--",
+							"latitude": "1.3343783",
+							"longitude": "103.95071810000002",
+							"documentNo": "Doc-VINNN--",
+							"deviceStatus": "Active",
+							"vehicleLocation": "In Geo Location of Dealer",
+							"invoiceStatusCode": "XO",
+							"invoiceStatus": "XO Submission",
+							"dealRefNo": "TF123A9999-00000",
+							"remarks": "Of redux-saga without being lost in excessive details."
+					},
+					{
+							"programId": 1,
+							"dashboardId": 7,
+							"anchorDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Anchor One",
+									"latitude": "1.3343783",
+									"longitude": "103.95071810000002",
+									"addressDTOList": [
+											{
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"spokeDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Spoke One",
+									"latitude": "",
+									"longitude": "",
+									"addressDTOList": [
+											{
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"vinMapped": true,
+							"vin": "VINNN--",
+							"latitude": "1.3343783",
+							"longitude": "103.95071810000002",
+							"documentNo": "Doc-VINNN--",
+							"deviceStatus": "Inactive",
+							"vehicleLocation": "In-transit Supplier",
+							"invoiceStatusCode": "XO",
+							"invoiceStatus": "XO Submission",
+							"dealRefNo": "TF123A9999-00000",
+							"remarks": "Of redux-saga without being lost in excessive details."
+					},
+					{
+							"programId": 1,
+							"dashboardId": 8,
+							"anchorDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Anchor One",
+									"latitude": "1.3343783",
+									"longitude": "103.95071810000002",
+									"addressDTOList": [
+											{
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"spokeDetailId": {
+									"detailsId": 0,
+									"programId": 1,
+									"otpId": "12",
+									"name": "Spoke One",
+									"latitude": "",
+									"longitude": "",
+									"addressDTOList": [
+											{
+													"addressId": 0,
+													"addressLine1": "Add one",
+													"addressLine2": "Add Two",
+													"addressLine3": "Add three",
+													"countryCode": "SIG",
+													"postalCode": "44444444"
+											}
+									]
+							},
+							"vinMapped": true,
+							"vin": "VINNN--",
+							"latitude": "1.3343783",
+							"longitude": "103.95071810000002",
+							"documentNo": "Doc-VINNN--",
+							"deviceStatus": "Inactive",
+							"vehicleLocation": "In Geo Location of Bodybuilder",
+							"invoiceStatusCode": "XO",
+							"invoiceStatus": "XO Submission",
+							"dealRefNo": "TF123A9999-00000",
+							"remarks": "Of redux-saga without being lost in excessive details."
+					}
+			]
+	}
+}
